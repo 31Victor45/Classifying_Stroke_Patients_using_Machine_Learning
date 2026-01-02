@@ -1,0 +1,63 @@
+{
+    "nombre_modelo": "Stroke_Detector_Master_v13",
+    "meta_clinica": "Recall 80%",
+    "umbral_decision": 0.7065243721008301,
+    "puntos_corte_biologicos": {
+        "edad_anos": [
+            0.08,
+            25.0,
+            45.0,
+            61.0,
+            82.0
+        ],
+        "glucosa_mg_dl": [
+            55.12,
+            77.24,
+            91.88,
+            114.09,
+            271.74
+        ],
+        "bmi_indice": [
+            10.3,
+            23.8,
+            28.1,
+            32.8,
+            97.6
+        ]
+    },
+    "etiquetas_riesgo": [
+        "Q1_Bajo",
+        "Q2_Medio",
+        "Q3_Alto",
+        "Q4_Critico"
+    ],
+    "variables_modelo": [
+        "hypertension",
+        "heart_disease",
+        "gender_Female",
+        "gender_Male",
+        "ever_married_No",
+        "ever_married_Yes",
+        "work_type_Govt_job",
+        "work_type_Private",
+        "work_type_Self-employed",
+        "work_type_children",
+        "Residence_type_Rural",
+        "Residence_type_Urban",
+        "smoking_status_Unknown",
+        "smoking_status_ever_smoked",
+        "smoking_status_never smoked",
+        "age_cat_Q1_Bajo",
+        "age_cat_Q2_Medio",
+        "age_cat_Q3_Alto",
+        "age_cat_Q4_Critico",
+        "glucose_cat_Q1_Bajo",
+        "glucose_cat_Q2_Medio",
+        "glucose_cat_Q3_Alto",
+        "glucose_cat_Q4_Critico",
+        "bmi_cat_Q1_Bajo",
+        "bmi_cat_Q2_Medio",
+        "bmi_cat_Q3_Alto",
+        "bmi_cat_Q4_Critico"
+    ]
+}
