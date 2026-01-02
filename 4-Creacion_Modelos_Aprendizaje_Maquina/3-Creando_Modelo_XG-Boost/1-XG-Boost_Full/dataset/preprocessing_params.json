@@ -1,0 +1,24 @@
+{
+    "box_cox_lambdas": {
+        "age": 0.8361226067436767,
+        "avg_glucose_level": -1.0573698244677305,
+        "bmi": 0.0028700881880880584
+    },
+    "box_cox_shifts": {
+        "age": 0.0,
+        "avg_glucose_level": 0.0,
+        "bmi": 0.0
+    },
+    "scaler_params": {
+        "mean": {
+            "age": 26.04224595000496,
+            "avg_glucose_level": 0.9378857251840831,
+            "bmi": 3.3448041966413977
+        },
+        "scale": {
+            "age": 12.642479861773515,
+            "avg_glucose_level": 0.0025927674657289434,
+            "bmi": 0.26227692246414763
+        }
+    }
+}
