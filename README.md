@@ -1,0 +1,1 @@
+Encuentra si el paciente presenta riesgo o no de sufrir un infrato cerebral. Tú mismo podrás ajutar ese riego (recomendamos que sea en base a conocimientos médicos). Este es el enlace de la app: <https://classifyingstrokepatientsusingmachinelearning-cphkhxgjnqmp8omu.streamlit.app/>
